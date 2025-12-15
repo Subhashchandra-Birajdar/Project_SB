@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 // springboot application @configuration @component @EnableConfiguration
+// Mostly asked in tech interviews
 public class RashmikaApplication {
 
     public static void main(String[] args) {
